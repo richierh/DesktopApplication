@@ -1,0 +1,9 @@
+{
+    "python.venvFolders": [
+        "envs",
+        ".pyenv",
+        ".direnv",
+        ".virtualenvs"
+    ],
+    "python.venvPath": "~/.virtualenvs"
+}
